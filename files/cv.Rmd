@@ -13,7 +13,7 @@ geometry: margin=1in
 github: APOLLINE-MICHEL
 jobtitle: Etudiant à l'Université de Mons
 keywords: Biologie, Science des données
-linkcolor: blue
+linkcolor: red
 fontawesome: no
 address: 8 avenue du Champ de Mars, 7000 Mons, Belgique
 updated: yes
@@ -24,14 +24,16 @@ urlcolor: blue
 
 *Université de Mons*, Bachelier en Biologie \hfill 2020
 
-*Ecole secondaire*, orientation \hfill 2017
+*Athénée Royal Florennes-Doisches*, orientation \hfill 2017
+
 
 
 # EMPLOIS
 
 *Job étudiant:*
 
- > Activité réalisée \hfill 2017--2018
+ -Lacs de l'eau d'heure \hfill été 2018
+ -Jardinage chez le voisin \hfill été 2017
 
 *Autre emploi:*
 
@@ -54,4 +56,4 @@ urlcolor: blue
 
 # RECOMPENSES
 
-**2017**  *Prix XXX*, détails concernant ce prix
+**2018**  *Prix d'excellence*, lors de l'exposition "Exp'osons " réalisée chaque année pour les élèves de secondaire à la gare de Namur
